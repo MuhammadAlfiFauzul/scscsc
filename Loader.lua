@@ -1,4 +1,4 @@
-local url = "https://raw.githubusercontent.com/WataXScript/WataXMountYahayuk1/main/Loader/main.lua"
+local url = "https://raw.githubusercontent.com/MuhammadAlfiFauzul/scscsc/refs/heads/main/jembut.lua"
 local s, e = pcall(function()
     return loadstring(game:HttpGet(url))()
 end)
